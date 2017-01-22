@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="sudokig-api_main" target="1.8" />
+      <module name="sudokig-api_test" target="1.8" />
+      <module name="sudokig-app_main" target="1.8" />
+      <module name="sudokig-app_test" target="1.8" />
+      <module name="sudokig-impl-backtracking_main" target="1.8" />
+      <module name="sudokig-impl-backtracking_test" target="1.8" />
+      <module name="sudokig-impl-jsr331_main" target="1.8" />
+      <module name="sudokig-impl-jsr331_test" target="1.8" />
+      <module name="sudokig-impl-own_main" target="1.5" />
+      <module name="sudokig-impl-own_test" target="1.5" />
+      <module name="sudokig-impl-simple_main" target="1.8" />
+      <module name="sudokig-impl-simple_test" target="1.8" />
+      <module name="sudokig-jsr331_main" target="1.5" />
+      <module name="sudokig-jsr331_test" target="1.5" />
+      <module name="sudokig-naive_main" target="1.5" />
+      <module name="sudokig-naive_test" target="1.5" />
+      <module name="sudokig-parent_main" target="1.8" />
+      <module name="sudokig-parent_test" target="1.8" />
+      <module name="sudokig-util_main" target="1.8" />
+      <module name="sudokig-util_test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

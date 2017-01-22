@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-api/sudokig-api.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-api/sudokig-api.iml" group="sudokig-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-api/sudokig-api_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-api/sudokig-api_main.iml" group="sudokig-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-api/sudokig-api_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-api/sudokig-api_test.iml" group="sudokig-api" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-app/sudokig-app.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-app/sudokig-app.iml" group="sudokig-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-app/sudokig-app_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-app/sudokig-app_main.iml" group="sudokig-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-app/sudokig-app_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-app/sudokig-app_test.iml" group="sudokig-app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-impl-jsr331/sudokig-impl-jsr331.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-impl-jsr331/sudokig-impl-jsr331.iml" group="sudokig-impl-jsr331" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-impl-jsr331/sudokig-impl-jsr331_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-impl-jsr331/sudokig-impl-jsr331_main.iml" group="sudokig-impl-jsr331" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-impl-jsr331/sudokig-impl-jsr331_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-impl-jsr331/sudokig-impl-jsr331_test.iml" group="sudokig-impl-jsr331" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-impl-own/sudokig-impl-own.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-impl-own/sudokig-impl-own.iml" group="sudokig-impl-own" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-impl-own/sudokig-impl-own_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-impl-own/sudokig-impl-own_main.iml" group="sudokig-impl-own" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-impl-own/sudokig-impl-own_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-impl-own/sudokig-impl-own_test.iml" group="sudokig-impl-own" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-impl-simple/sudokig-impl-simple.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-impl-simple/sudokig-impl-simple.iml" group="sudokig-impl-simple" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-impl-simple/sudokig-impl-simple_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-impl-simple/sudokig-impl-simple_main.iml" group="sudokig-impl-simple" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-impl-simple/sudokig-impl-simple_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-impl-simple/sudokig-impl-simple_test.iml" group="sudokig-impl-simple" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-parent.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-parent_main.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-parent_main.iml" group="sudokig-parent" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sudokig-parent_test.iml" filepath="$PROJECT_DIR$/.idea/modules/sudokig-parent_test.iml" group="sudokig-parent" />
+    </modules>
+  </component>
+</project>
